@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mohamedwathig/mui-admin-dashboard/static/css/main.35f7908b.css",
+    "main.js": "/Mohamedwathig/mui-admin-dashboard/static/js/main.8b78e5ce.js",
+    "index.html": "/Mohamedwathig/mui-admin-dashboard/index.html",
+    "main.35f7908b.css.map": "/Mohamedwathig/mui-admin-dashboard/static/css/main.35f7908b.css.map",
+    "main.8b78e5ce.js.map": "/Mohamedwathig/mui-admin-dashboard/static/js/main.8b78e5ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f7908b.css",
+    "static/js/main.8b78e5ce.js"
+  ]
+}
